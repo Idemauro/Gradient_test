@@ -1,0 +1,81 @@
+instar;planta;id;resp1;resp2;resp3;resp4
+L4;soya;1;leaf;leaf;leaf;leaf
+L4;soya;2;leaf;leaf;leaf;leaf
+L4;soya;3;leaf;leaf;leaf;leaf
+L4;soya;4;nothing;fruit  ;nothing;nothing
+L4;soya;5;nothing;nothing;leaf;nothing
+L4;soya;6;nothing;leaf;leaf;leaf
+L4;soya;7;leaf;leaf;leaf;leaf
+L4;soya;8;leaf;leaf;leaf;leaf
+L4;soya;9;nothing;leaf;leaf;leaf
+L4;soya;10;leaf;NA;NA;NA
+L4;soya;11;leaf;leaf;leaf;leaf
+L4;soya;12;fruit  ;leaf;leaf;leaf
+L4;soya;13;leaf;leaf;leaf;leaf
+L4;soya;14;leaf;leaf;leaf;leaf
+L4;soya;15;nothing;leaf;leaf;leaf
+L4;soya;16;fruit  ;fruit  ;nothing;fruit  
+L4;soya;17;leaf;leaf;leaf;leaf
+L4;soya;18;leaf;leaf;leaf;leaf
+L4;soya;19;leaf;leaf;leaf;leaf
+L4;soya;20;leaf;leaf;leaf;leaf
+L4;cotton;21;fruit  ;fruit  ;fruit  ;fruit  
+L4;cotton;22;leaf;leaf;leaf;fruit  
+L4;cotton;23;nothing;nothing;nothing;fruit  
+L4;cotton;24;nothing;nothing;nothing;leaf
+L4;cotton;25;nothing;nothing;fruit  ;nothing
+L4;cotton;26;nothing;fruit  ;nothing;nothing
+L4;cotton;27;fruit  ;fruit  ;fruit  ;fruit  
+L4;cotton;28;nothing;nothing;fruit  ;nothing
+L4;cotton;29;nothing;nothing;nothing;nothing
+L4;cotton;30;nothing;nothing;nothing;nothing
+L4;cotton;31;nothing;nothing;leaf;leaf
+L4;cotton;32;fruit  ;fruit  ;fruit  ;fruit  
+L4;cotton;33;nothing;nothing;fruit  ;fruit  
+L4;cotton;34;leaf;leaf;leaf;leaf
+L4;cotton;35;nothing;nothing;nothing;nothing
+L4;cotton;36;leaf;nothing;fruit  ;fruit  
+L4;cotton;37;nothing;nothing;nothing;nothing
+L4;cotton;38;leaf;fruit  ;fruit  ;fruit  
+L4;cotton;39;leaf;fruit  ;leaf;fruit  
+L4;cotton;40;leaf;leaf;fruit  ;fruit  
+L5;soya;41;leaf;leaf;fruit  ;fruit  
+L5;soya;42;leaf;leaf;leaf;leaf
+L5;soya;43;leaf;nothing;nothing;leaf
+L5;soya;44;nothing;leaf;nothing;leaf
+L5;soya;45;fruit  ;leaf;fruit  ;leaf
+L5;soya;46;leaf;nothing;leaf;leaf
+L5;soya;47;leaf;nothing;leaf;leaf
+L5;soya;48;fruit  ;nothing;nothing;leaf
+L5;soya;49;fruit  ;nothing;nothing;nothing
+L5;soya;50;fruit  ;fruit  ;fruit  ;nothing
+L5;soya;51;leaf;fruit  ;fruit  ;leaf
+L5;soya;52;leaf;nothing;nothing;nothing
+L5;soya;53;leaf;nothing;nothing;leaf
+L5;soya;54;leaf;nothing;leaf;fruit  
+L5;soya;55;leaf;nothing;leaf;leaf
+L5;soya;56;fruit  ;nothing;leaf;leaf
+L5;soya;57;leaf;nothing;nothing;leaf
+L5;soya;58;leaf;fruit  ;nothing;nothing
+L5;soya;59;fruit  ;fruit  ;fruit  ;leaf
+L5;soya;60;fruit  ;nothing;fruit  ;nothing
+L5;cotton;61;leaf;fruit  ;leaf;fruit  
+L5;cotton;62;nothing;leaf;nothing;leaf
+L5;cotton;63;fruit  ;fruit  ;fruit  ;fruit  
+L5;cotton;64;nothing;nothing;nothing;fruit  
+L5;cotton;65;nothing;fruit  ;fruit  ;fruit  
+L5;cotton;66;leaf;leaf;nothing;fruit  
+L5;cotton;67;fruit  ;fruit  ;fruit  ;fruit  
+L5;cotton;68;fruit  ;fruit  ;fruit  ;fruit  
+L5;cotton;69;nothing;fruit  ;nothing;fruit  
+L5;cotton;70;nothing;nothing;nothing;fruit  
+L5;cotton;71;leaf;fruit  ;fruit  ;fruit  
+L5;cotton;72;fruit  ;leaf;fruit  ;fruit  
+L5;cotton;73;fruit  ;nothing;fruit  ;fruit  
+L5;cotton;74;fruit  ;fruit  ;fruit  ;fruit  
+L5;cotton;75;nothing;leaf;nothing;nothing
+L5;cotton;76;leaf;fruit  ;fruit  ;fruit  
+L5;cotton;77;nothing;leaf;leaf;leaf
+L5;cotton;78;nothing;fruit  ;fruit  ;fruit  
+L5;cotton;79;nothing;fruit  ;fruit  ;fruit  
+L5;cotton;80;fruit  ;fruit  ;fruit  ;leaf
